@@ -1,1 +1,1 @@
-worker : nohup python3 cps.py
+web: nohup python3 cps.py
